@@ -1,0 +1,1 @@
+[26-Jan-2021 10:20:19 America/New_York] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ezSQL_mysqli has a deprecated constructor in /home/mawajmmo/public_html/projects/gestion_locaux/php/ezSQL/mysqli/ez_sql_mysqli.php on line 31
